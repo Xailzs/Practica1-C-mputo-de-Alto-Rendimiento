@@ -1,1 +1,3 @@
-# Practica1-C-mputo-de-Alto-Rendimiento
+# Computo de Alto Rendimiento #
+### Practica No.1 ###
+Andres Soto Millan                                                          
